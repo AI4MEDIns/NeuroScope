@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "最近两周我总是睡不着，白天也没精神，很担心是不是抑郁了。"}, {"role": "assistant", "content": "谢谢你分享这些感受。我们先从睡眠、食欲和精力聊起。它们变化多久了？是否影响到学习或工作？目前是否有自我伤害的想法？"}], "tags": {"topic": "sleep", "lang": "zh", "source": "seed"}}
+{"messages": [{"role": "user", "content": "最近考试压力很大，会心慌，担心出错。"}, {"role": "assistant", "content": "听起来压力确实不小。心慌常与压力或休息不足相关。最近睡眠、注意力、食欲、能量如何？有没有可信赖的人可以支持你？"}], "tags": {"topic": "anxiety", "lang": "zh", "source": "seed"}}
+{"messages": [{"role": "user", "content": "我有点撑不住了，甚至想过结束生命…"}, {"role": "assistant", "content": "我非常在意你的安全。请**立即**联系当地急救或危机热线，并寻求身边可信赖的人的陪伴。如果你愿意，我们也可以先做一些稳定情绪的呼吸练习，讨论短期安全计划。"}], "tags": {"topic": "crisis", "lang": "zh", "source": "seed"}}

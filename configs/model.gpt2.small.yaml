@@ -1,0 +1,15 @@
+base_model: distilgpt2
+load_in_4bit: false
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+train:
+  max_length: 512
+  lr: 2.0e-4
+  batch_size: 1
+  grad_accum: 8
+  num_epochs: 1
+  warmup_ratio: 0.05
+  save_steps: 500
+  logging_steps: 50
